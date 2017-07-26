@@ -1,0 +1,17 @@
+{
+  "editable": [
+    "es6/src/nurikabe.js", 
+    "index.html",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "allowNewFile": "true",
+  "main": "es6/src/nurikabe.js",
+  "test": "mocha --harmony --timeout 600000",
+  "tags": [
+      "Node.js",
+      "ECMAScrpt2015",
+      "Algorithm",
+      "Game"
+  ]
+}
